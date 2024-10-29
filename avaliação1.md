@@ -1,0 +1,8 @@
+### Avaliador: Renan Sabino dos Reis
+| Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Nota atribuída | Observações do Avaliador |
+|---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|----------------|--------------------------|
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                          | 0                        | 2,7            | A montagem física está muito boa e ele utilizou adequadamente os resistores, somente os fios estavam um pouco desorganizados |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        | 3              | O tempo está de acordo |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        | 3              | As fases estão todas certas e o código está comentado |
+| Extra: Implementou um componente de liga/desliga no semáforo e/ou usou ponteiros no código             | Até 1              | Até 0,5                          | 0                        | 1              | O colega adicionou o semáforo em pé na madeira e também adicionou um buzzer para apitar quando estiver vermelho |
+*Pontuação Total: 9,7*
